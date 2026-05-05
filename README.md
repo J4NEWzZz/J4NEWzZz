@@ -36,7 +36,7 @@ const developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a2e?style=for-the-badge&logo=javascript&logoColor=5B8DEE)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a2e?style=for-the-badge&logo=node.js&logoColor=5B8DEE)
 ![Firebase](https://img.shields.io/badge/Firebase-0a0a2e?style=for-the-badge&logo=firebase&logoColor=5B8DEE)
-![Python](https://img.shields.io/badge/Python-0a0a2e?style=for-the-badge&logo=github&logoColor=5B8DEE)
+![Python](https://img.shields.io/badge/Python-0a0a2e?style=for-the-badge&logo=python&logoColor=5B8DEE)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a2e?style=for-the-badge&logo=tailwindcss&logoColor=5B8DEE)
 ![Git](https://img.shields.io/badge/Git-0a0a2e?style=for-the-badge&logo=git&logoColor=5B8DEE)
 
@@ -50,9 +50,11 @@ const developer = {
 
 <img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/github.com/J4NEWzZz-0a0a2e?style=for-the-badge&logo=github&logoColor=5B8DEE)](https://github.com/J4NEWzZz)
+---
+
+[![GitHub](https://img.shields.io/badge/My%20work-0a0a2e?style=for-the-badge&logo=github&logoColor=5B8DEE)](https://github.com/J4NEWzZz)
 
 </div>
 
