@@ -1,6 +1,6 @@
 <div align="center">
 
-![top](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a2e,100:2d1b69&height=4)
+![top](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:2d1b69&height=80&section=header)
 
 <br/>
 
@@ -11,10 +11,6 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a2e,100:2d1b69&height=4)
 
 </div>
 
@@ -55,8 +51,6 @@ const developer = {
 
 <img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
 
-<br/>
-
-![bottom](https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,100:0a0a2e&height=4)
-
 </div>
+
+![bottom](https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,100:0a0a2e&height=80&section=footer)
