@@ -45,10 +45,6 @@ const developer = {
 
 ## 📊 Stats
 
-<img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/5B8DEE/J4NEWzZz"/>
+<img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9&mode=weekly"/>
 
 </div>
