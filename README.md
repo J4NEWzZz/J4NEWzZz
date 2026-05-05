@@ -1,5 +1,9 @@
 <div align="center">
 
+![top](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a2e,100:2d1b69&height=4)
+
+<br/>
+
 [![title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=5B8DEE&center=true&vCenter=true&width=700&lines=Swiss+Frontend+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 [![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=99999&color=7c52cc&center=true&vCenter=true&width=700&lines=Currently+in+Apprenticeship)](https://git.io/typing-svg)
@@ -7,6 +11,10 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a2e,100:2d1b69&height=4)
 
 </div>
 
@@ -45,6 +53,10 @@ const developer = {
 
 ## 📊 Stats
 
-<img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9&mode=weekly"/>
+<img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
+
+<br/>
+
+![bottom](https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,100:0a0a2e&height=4)
 
 </div>
