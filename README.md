@@ -57,15 +57,3 @@ const developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
 
 </div>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a2e?style=for-the-badge&logo=github&logoColor=5B8DEE)](https://github.com/J4NEWzZz)
-
-</div>
