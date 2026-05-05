@@ -4,9 +4,7 @@
 
 <br/>
 
-[![title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=5B8DEE&center=true&vCenter=true&width=700&lines=Swiss+Frontend+%26+Mobile+Developer)](https://git.io/typing-svg)
-
-[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=99999&color=7c52cc&center=true&vCenter=true&width=700&lines=Currently+in+Apprenticeship)](https://git.io/typing-svg)
+[![title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=5B8DEE&center=true&vCenter=true&width=700&lines=Swiss+Web+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 <br/>
 
