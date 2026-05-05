@@ -1,13 +1,11 @@
 <div align="center">
 
-![title](https://capsule-render.vercel.app/api?type=transparent&color=0:5B8DEE,100:7c52cc&height=80&text=Swiss%20Frontend%20%26%20Mobile%20Developer&fontSize=32&fontColor=5B8DEE&animation=fadeIn&fontAlignY=50)
-![subtitle](https://capsule-render.vercel.app/api?type=transparent&color=0:5B8DEE,100:7c52cc&height=40&text=Currently%20in%20Apprenticeship%20%F0%9F%87%A8%F0%9F%87%AD&fontSize=18&fontColor=7c52cc&animation=fadeIn&fontAlignY=50)
+![title](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Swiss%20Frontend%20%26%20Mobile%20Developer&fontSize=32&fontColor=5B8DEE&animation=fadeIn&fontAlignY=50)
+![subtitle](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Currently%20in%20Apprenticeship&fontSize=18&fontColor=7c52cc&animation=fadeIn&fontAlignY=50)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing+🌱;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=J4NEWzZz&style=for-the-badge&color=1a1a6e&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +14,7 @@
 ```typescript
 const developer = {
   role:     "Apprentice Software Developer",
-  location: "Switzerland 🇨🇭",
+  location: "Switzerland",
   stack:    ["Angular", "Ionic", "Firebase", "Node.js", "TypeScript"],
   learning: ["Clean Architecture", "DevOps", "Backend Scaling"],
 };
@@ -54,6 +52,11 @@ const developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=J4NEWzZz&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
