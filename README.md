@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B8DEE&center=true&vCenter=true&width=650&height=80&lines=Swiss+Frontend+%26+Mobile+Developer+🇨🇭;Currently+in+Apprenticeship+👨🏼‍💻;Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing+🌱)](https://git.io/typing-svg)
+![title](https://capsule-render.vercel.app/api?type=transparent&color=0:5B8DEE,100:7c52cc&height=80&text=Swiss%20Frontend%20%26%20Mobile%20Developer&fontSize=32&fontColor=5B8DEE&animation=fadeIn&fontAlignY=50)
+![subtitle](https://capsule-render.vercel.app/api?type=transparent&color=0:5B8DEE,100:7c52cc&height=40&text=Currently%20in%20Apprenticeship%20%F0%9F%87%A8%F0%9F%87%AD&fontSize=18&fontColor=7c52cc&animation=fadeIn&fontAlignY=50)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing+🌱;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=J4NEWzZz&style=for-the-badge&color=1a1a6e&label=PROFILE+VIEWS)
 
