@@ -1,11 +1,12 @@
 <div align="center">
 
-![title](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Swiss%20Frontend%20%26%20Mobile%20Developer&fontSize=32&fontColor=5B8DEE&animation=fadeIn&fontAlignY=50)
-![subtitle](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Currently%20in%20Apprenticeship&fontSize=18&fontColor=7c52cc&animation=fadeIn&fontAlignY=50)
+[![title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=5B8DEE&center=true&vCenter=true&width=700&lines=Swiss+Frontend+%26+Mobile+Developer)](https://git.io/typing-svg)
+
+[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=99999&color=7c52cc&center=true&vCenter=true&width=700&lines=Currently+in+Apprenticeship)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Angular+%7C+Ionic+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+growing;Clean+Architecture+%7C+TypeScript+%7C+DevOps)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,16 +45,11 @@ const developer = {
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=J4NEWzZz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5B8DEE&icon_color=7c52cc&text_color=c9d1d9&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4NEWzZz&layout=compact&hide_border=true&bg_color=0d1117&title_color=5B8DEE&text_color=c9d1d9&langs_count=6" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=J4NEWzZz&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=J4NEWzZz&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEE&fire=7c52cc&currStreakLabel=5B8DEE&sideLabels=5B8DEE&dates=c9d1d9"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
 
+</div>
 </div>
