@@ -49,7 +49,6 @@ const developer = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J4NEWzZz&bg_color=0d1117&color=5B8DEE&line=7c52cc&point=ffffff&area=true&hide_border=true"/>
+<img src="https://ghchart.rshah.org/5B8DEE/J4NEWzZz"/>
 
-</div>
 </div>
