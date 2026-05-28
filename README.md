@@ -34,7 +34,7 @@ const developer = {
 ![Ionic](https://img.shields.io/badge/Ionic-0a0a2e?style=for-the-badge&logo=ionic&logoColor=5B8DEE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a2e?style=for-the-badge&logo=typescript&logoColor=5B8DEE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a2e?style=for-the-badge&logo=javascript&logoColor=5B8DEE)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a2e?style=for-the-badge&logo=node.js&logoColor=5B8DEE)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a2e?style=for-the-badge&logo=nodedotjs&logoColor=5B8DEE)
 ![Firebase](https://img.shields.io/badge/Firebase-0a0a2e?style=for-the-badge&logo=firebase&logoColor=5B8DEE)
 ![Python](https://img.shields.io/badge/Python-0a0a2e?style=for-the-badge&logo=python&logoColor=5B8DEE)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a2e?style=for-the-badge&logo=tailwindcss&logoColor=5B8DEE)
